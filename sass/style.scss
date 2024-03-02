@@ -794,7 +794,7 @@ section {
     }
 }
 
-@media (max-width: 395px) {
+@media (min-width: 392px) {
     .about .box-container .box {
          width: 100%; /* جعل العرض ملئ الشاشة */
         padding: 15px; /* إضافة تباعد داخلي */
