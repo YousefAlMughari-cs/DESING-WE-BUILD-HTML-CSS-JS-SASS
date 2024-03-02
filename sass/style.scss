@@ -793,3 +793,11 @@ section {
     font-size: 50%;
     }
 }
+
+@media (max-width: 395px) {
+    .about .box-container .box {
+         width: 100%; /* جعل العرض ملئ الشاشة */
+        padding: 15px; /* إضافة تباعد داخلي */
+        margin-bottom: 10px; 
+    }
+}
